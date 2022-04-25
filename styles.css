@@ -28,6 +28,11 @@ body {
     color: #eee;
 }
 
+.grid-container >button:hover {
+    background-color: #eee;
+    color: #111;
+}
+
 .grid-container > .operator {
     background: #74b3e612;
 }
