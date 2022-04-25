@@ -1,1 +1,1 @@
-<h1>Calculadora em Java Script<h1>
+<h1>Calculadora em JavaScript<h1>
